@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI text_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: f1665fa23e04ba24ebd74fdd9df4ffe7, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 2307725025280
+    m_Localized: "\u30D7\u30EC\u30A4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4464029294592
+    m_Localized: "\u8A2D\u5B9A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5967582420992
+    m_Localized: "\u30AF\u30EC\u30B8\u30C3\u30C8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12075260796928
+    m_Localized: "\u97F3\u697D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13673336758272
+    m_Localized: "\u30A8\u30D5\u30A7\u30AF\u30C8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14230612959232
+    m_Localized: "\u6210\u679C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16453514387456
+    m_Localized: "\u30E9\u30F3\u30AD\u30F3\u30B0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19342412570624
+    m_Localized: "\u30EC\u30D9\u30EB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21149599752192
+    m_Localized: "\u30B9\u30C6\u30C3\u30D7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126839441940480
+    m_Localized: "\u30DD\uFF0D\u30BA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136962692440064
+    m_Localized: "\u30EA\u30C8\u30E9\u30A4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137018438934528
+    m_Localized: "\u30E1\u30CB\u30E5\u30FC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137980050235392
+    m_Localized: "\u6B21\u3078"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 347444535713792
+    m_Localized: "\u958B\u767A\u4E2D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1862784314859520
+    m_Localized: "\u30EC\u30D9\u30EB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6894697962364928
+    m_Localized: "\u30DC\u30FC\u30C8\u300C\u30EB\u30FB\u30CE\u30EB\u30DE\u30F3\u30C7\u30A3\u30FC\u300D\u3078\u3088\u3046\u3053\u305D\u3002\u6700\u521D\u306E\u30B5\u30FC\u30D3\u30B9\u304C\u3069\u3046\u306A\u308B\u304B\u3092\u304A\u898B\u305B\u3057\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895675625267200
+    m_Localized: "\u57FA\u672C\u304B\u3089\u59CB\u3081\u307E\u3057\u3087\u3046\u3002\u79C1\u3092\u3059\u3079\u3066\u306E\u76EE\u7684\u306B\u901A\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895837076611072
+    m_Localized: "\u3055\u3066\u3001\u79C1\u306E\u8DB3\u306E\u4E0B\u304C\u5149\u3063\u3066\u3044\u308B\u306E\u3092\u898B\u3048\u307E\u3059\u306D\u3002\u305D\u308C\u306F\u79C1\u306E\u30B5\u30FC\u30D3\u30B9\u306E\u6E96\u5099\u304C\u3066\u304D\u3066\u3044\u308B\u3053\u3068\u3092\u610F\u5473\u3057\u307E\u3059\u3002\u3061\u3087\u3063\u3068\u79C1\u3092\u30BF\u30C3\u30C1\u3057\u3066\u898B\u3066\u304F\u3060\u3055\u3044\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895923915481088
+    m_Localized: "\u76EE\u6A19\u3092\u9054\u6210\u3059\u308B\u305F\u3081\u306B\u6700\u77ED\u30EB\u30FC\u30C8\u3092\u4F7F\u7528\u3057\u307E\u3057\u305F\u304C\u3001\u305D\u308C\u3060\u3051\u306E\u30EB\u30FC\u30C8\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895984791609344
+    m_Localized: "\u5404\u30B5\u30FC\u30D3\u30B9\u306E\u6700\u77ED\u30EB\u30FC\u30C8\u3092\u4F7F\u7528\u3059\u308B\u5FC5\u8981\u306F\u3042\u308A\u307E\u305B\u3093\u304C\u3001\u305F\u3060\u304A\u5BA2\u69D8\u306E\u6E80\u8DB3\u304C\u4F4E\u304F\u306A\u308A\u3001\u8A55\u4FA1\u304C\u4F4E\u304F\u306A\u308B\u53EF\u80FD\u6027\u304C\u3042\u308A\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6896053234262016
+    m_Localized: "\u884C\u304D\u307E\u3057\u3087\u3046\uFF01\u3042\u306A\u305F\u306F\u304A\u5BA2\u69D8\u306B\u30B5\u30FC\u30D3\u30B9\u3092\u63D0\u4F9B\u3059\u308B\u6E96\u5099\u304C\u3067\u304D\u3066\u3044\u307E\u3059\uFF01"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0060e1229c9f0600

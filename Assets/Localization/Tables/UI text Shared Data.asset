@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI text
+  m_TableCollectionNameGuidString: f1665fa23e04ba24ebd74fdd9df4ffe7
+  m_Entries:
+  - m_Id: 2307725025280
+    m_Key: Play Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4464029294592
+    m_Key: Settings Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5967582420992
+    m_Key: Credits Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12075260796928
+    m_Key: Music Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13673336758272
+    m_Key: SFX Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14230612959232
+    m_Key: Achievements Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16453514387456
+    m_Key: Leaderboard Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19342412570624
+    m_Key: Levels Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21149599752192
+    m_Key: Score Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126839441940480
+    m_Key: Paused Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136962692440064
+    m_Key: Retry Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137018438934528
+    m_Key: Menu Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137980050235392
+    m_Key: Next Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 347444535713792
+    m_Key: Comong Soon Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1862784314859520
+    m_Key: Niveau Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6894697962364928
+    m_Key: Welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895675625267200
+    m_Key: Let's start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895837076611072
+    m_Key: Well, as you can see
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895923915481088
+    m_Key: We used the shortest path
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895984791609344
+    m_Key: "You don\u2019t have to have the shortest route"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6896053234262016
+    m_Key: And there you go
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1622124332353

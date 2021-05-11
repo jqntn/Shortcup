@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI text_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: f1665fa23e04ba24ebd74fdd9df4ffe7, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 2307725025280
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4464029294592
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5967582420992
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12075260796928
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13673336758272
+    m_Localized: Effets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14230612959232
+    m_Localized: "R\xE9ussites"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16453514387456
+    m_Localized: Classement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19342412570624
+    m_Localized: Niveaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21149599752192
+    m_Localized: Pas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126839441940480
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136962692440064
+    m_Localized: Rejouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137018438934528
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137980050235392
+    m_Localized: Suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 347444535713792
+    m_Localized: Prochainement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1862784314859520
+    m_Localized: Niveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6894697962364928
+    m_Localized: "Bienvenue sur le bateau \u201CLe Normandie\u201D, je vais vous
+      montrer comment se d\xE9roulera votre premier service."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895675625267200
+    m_Localized: "Commen\xE7ons par les bases, faites moi passer par tous les objectifs
+      du niveau."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895837076611072
+    m_Localized: "Bien, comme vous pouvez le voir, la case sous mes pieds brille,
+      cela signifie que je suis pr\xEAte \xE0 faire mon service, il suffit de me
+      faire une petite tape pour que je commence."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895923915481088
+    m_Localized: "Nous avons utilis\xE9 le chemin le plus court pour atteindre les
+      objectifs mais ce n\u2019est pas le seul qui existe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6895984791609344
+    m_Localized: "Vous n\u2019\xEAtes pas oblig\xE9 d\u2019avoir le chemin le plus
+      court \xE0 chaque service mais les clients seront moins satisfaits et vous
+      risquez d\u2019avoir une moins bonne note."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6896053234262016
+    m_Localized: "Et voil\xE0 ! Vous \xEAtes pr\xEAt \xE0 servir les clients !"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0060e1229c9f0600
